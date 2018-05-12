@@ -1,0 +1,33 @@
+_repo: An-Artilleryman-s-Diary_33211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Jenkins Lloyd
+    aliases:
+    - Lloyd Jones, Jenkin
+    - Jones, J. Lloyd (Jenkin Lloyd)
+    birthdate: 1843
+    deathdate: 1918
+    gutenberg_agent_id: '36264'
+    url: http://www.gutenberg.org/2009/agents/36264
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33211'
+  lccn: '14007743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Wisconsin Light Artillery, 6th (1861-1865)'
+- !lcc 'E456'
+title: An Artilleryman's Diary
+url: http://www.gutenberg.org/ebooks/33211
