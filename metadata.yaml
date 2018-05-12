@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36264'
     url: http://www.gutenberg.org/2009/agents/36264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33211#An-Artilleryman-s-Diary
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-07-20'
 gutenberg_type: Text
